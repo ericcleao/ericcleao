@@ -67,7 +67,7 @@ In June 2020 I was invited to an interview on [Ítau](https://www.itau.com.br/) 
 
 At this point in the middle of the pandemic that all the world was suffering I had to make a choice between that such team that we made at Ci&T and start at a new team and project on Ítau.
 
-So know I am an Android developer at ítau Unibanco, and I am working on the fraud prevention area so I am very eager with the challenges that I will face soon. I will update this "read.me" soon because I wrote a lot, but I will write something like that on the medium and could put the link here. 
+So now I am an Android developer at ítau Unibanco, and I am working on the fraud prevention area so I am very eager with the challenges that I will face soon. I will update this "read.me" soon because I wrote a lot, but I will write something like that on the medium and could put the link here. 
 
 ### More about me...
 
