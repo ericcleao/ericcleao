@@ -55,7 +55,7 @@ I started to program in 2014 after ending my high school when I started my Bache
 
 In my sixth period of the university, I dropped out and started to work on Android development 👨🏻‍💻. I went work on a construtech startup 🏗, at the beginning I was unfamiliar with some agile patterns and programming architecture as a lack of knowledge from university but in some months I was refactoring the project and made some others project from the scratch at this company, and after 8 months I became the responsible for the Android area 😃.
 
-What does "be responsible for the area" mean? It means that I had to coordinate the team as work as an architect to new projects and help the other team members on their development, some of my roles were to found new patterns and improvements at the Android community to apply them on our projects.
+What does "be responsible for the area" mean? It means that I had to coordinate the team working as a software architect to new projects and helping the other team members on their development, some of my roles were to found new patterns and improvements at the Android community to apply them on our projects.
 
 At this point, I met the [42](https://www.42.fr/) 👽 and found out that it was planning to open doors at Brazil, at São Paulo to be more specific, and resolved to see what it was for. I met the "école" 🇫🇷 and was amazed, after a recruiting Bootcamp, known as "pool"🏊🏼‍♂️, I was approved and started to plan my city change 🔁. I forgot to mention but I'm from Maceió the principal city of Alagoas in Brazil's northeast🏖.
 
